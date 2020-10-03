@@ -4,17 +4,14 @@
   <p align="center">
     Always confused about where to get the best deals on your favourite things? Don't worry Choose-Smart has come to your rescue
     <br />
-    <br />
     <a href="https://github.com/annu12340/Choose-Smart">View Demo</a>
-    ·
     <a href="https://github.com/annu12340/Choose-Smart/issues">Report Bug</a>
-    ·
     <a href="https://github.com/annu12340/Choose-Smart/issues">Request Feature</a>
   </p>
 
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+# Table of Contents
 
 * [About the Project](#about-the-project)
   * [Demo](#demo)
@@ -24,7 +21,6 @@
   * [Installation](#installation)
 * [Contributing](#contributing)
 * [Contact](#contact)
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -36,13 +32,10 @@ The main functionalities
 
 * Suggest the best deal avaiable on popular online shopping platform
 
-
 * Sentiment analysis of reviews of a product using Twitter API
 
 * Displays all the important laws that a consumer must be aware of
-
-## Screenshots
-
+### Demo
 
 #### Login & Register Page. 🔒
 ![1](https://user-images.githubusercontent.com/43414928/80920713-58ed2e00-8d8f-11ea-97cf-ba429a2ac4e9.png)
@@ -74,6 +67,7 @@ The main functionalities
 ## Getting Started
 
 ### Installation
+
 
 This is an example of how to list things you need to use the software and how to install them.
 * Fork & Clone the repo
@@ -110,4 +104,9 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
+
+<!-- CONTACT -->
+## Contact
+
+Project Link: [https://github.com/annu12340/Choose-Smart](https://github.com/annu12340/Choose-Smart)
 
